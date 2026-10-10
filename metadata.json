@@ -1,0 +1,6 @@
+{
+  "name": "GhostScan",
+  "description": "Cyber reconnaissance terminal, target scanner radar, and network link tracer with matrix rain modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
